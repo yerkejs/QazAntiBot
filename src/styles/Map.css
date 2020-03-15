@@ -1,0 +1,45 @@
+.Map {
+    padding: 40px 8%;
+    width: 84%;
+}
+.leaflet-container  {
+  height: 60vh;
+  width: 50%;
+  overflow: hidden;
+}
+.map {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.home {
+  border: none;
+  font-weight: 700; font-family: "Ubuntu";
+  background-color: #6E84FF;font-size: 16px;
+  border: none; padding: 0px 25px;
+  color: #fff; border-radius: 4px;
+  height: 48px;
+}
+.popup {
+  position: absolute;
+  z-index: 999;
+  background-color: #6E84FF;
+  color: #fff;
+  font-family: "Ubuntu";
+  right: 30px;
+  bottom: 0px;
+  padding: 20px 30px;
+  display: flex;align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.popup label {
+  font-weight: 700;
+  margin: 4px 0;
+}
+.popup h1 {
+  line-height: 100%;
+  margin: 8px 0;
+}
