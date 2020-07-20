@@ -27,10 +27,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h2>FACEBOOK MESSENGER BOT уже готов, ждет подтверждение от компании</h2>
 
-<h1>Веб сайт для Минздрава</h1>
-<a>testinganticorona.000webhostapp.com</a>
-<p>Логин: elzhanerke03@gmail.com</p>
-<p>Пароль: lakoemom</p>
+
 
 <p>#1 На сайте админ добавлять свои ссылки, и пользователи сразу получат уведомления</p>
 <p>#2 Админ может просмотривать жалобы пользователей на завышенные цены</p>
